@@ -1,0 +1,7 @@
+
+# Build results
+[Bb]in/
+[Oo]bj/
+.vscode
+
+openai-api-key.txt

@@ -1,0 +1,28 @@
+{
+    "persons": [
+        {
+            "name": "John Smith",
+            "birthDate": "1986-05-12",
+            "email": {
+                "business": "john.smith@business.com",
+                "private": "john.smith@private.com"
+            }
+        },
+        {
+            "name": "Jane Doe",
+            "birthDate": "1993-11-23",
+            "email": {
+                "business": "jane.doe@business.com",
+                "private": "jane.doe@private.com"
+            }
+        },
+        {
+            "name": "Bob Johnson",
+            "birthDate": "1979-02-17",
+            "email": {
+                "business": "bob.johnson@business.com",
+                "private": "bob.johnson@private.com"
+            }
+        }
+    ]
+}
